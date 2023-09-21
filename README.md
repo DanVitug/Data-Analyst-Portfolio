@@ -1,6 +1,11 @@
 <h1 align="center">Dan Vitug, Data Analyst Portfolio</h1>
-<div id="header" align="center">
 
+  
+### Certificates
+* [IBM Data Analyst Professional Certificate](https://github.com/DanVitug/Data-Analyst-Portfolio/blob/main/Certificates/IBM%20Data%20Analyst%20Professional%20Certificate.pdf) 
+
+ ### Projects
+* to be built
 
 
 <h3 align="left">Connect with me:
