@@ -2,7 +2,8 @@
 
   
 ### Certificates
-* [IBM Data Analyst Professional Certificate](https://github.com/DanVitug/Data-Analyst-Portfolio/blob/main/Certificates/IBM%20Data%20Analyst%20Professional%20Certificate.pdf) 
+* [IBM Data Analyst Professional Certificate](https://github.com/DanVitug/Data-Analyst-Portfolio/blob/main/Certificates/IBM%20Data%20Analyst%20Professional%20Certificate.pdf)
+* [Full List of Certificates](https://github.com/DanVitug/Data-Analyst-Portfolio/tree/main/Certificates)
 
 ### Projects
 * to be built
