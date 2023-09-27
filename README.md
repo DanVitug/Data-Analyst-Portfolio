@@ -6,7 +6,8 @@
 * [Full List of Certificates](https://github.com/DanVitug/Data-Analyst-Portfolio/tree/main/Certificates)
 
 ### Projects
-* to be built
+* [IBM Cognos Dashboard Project](https://jp-tok.dataplatform.cloud.ibm.com/dashboards/49a22221-4d6f-4609-ae56-04140fbf4361/view/7b1ddc2b1ebf29d117e9b1e407cb2b007433245ab3bbd20b81857b495b322097a8681b95c8281e5fdf160c36a6ba160acf)
+* 
 
 ### Where I studied SQL
 * [DataCamp](https://www.datacamp.com/portfolio/DanielVitug)
