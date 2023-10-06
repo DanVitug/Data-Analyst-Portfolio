@@ -16,6 +16,7 @@
 ### Where I studied SQL
 * [DataCamp](https://www.datacamp.com/portfolio/DanielVitug)
 * [IBM Data Analyst Professional Certificate](https://github.com/DanVitug/Data-Analyst-Portfolio/blob/main/Certificates/IBM%20Data%20Analyst%20Professional%20Certificate.pdf)
+* [DataLemur](https://datalemur.com/)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
 * [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 
