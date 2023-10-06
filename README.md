@@ -24,6 +24,8 @@
 * [IBM Data Analyst Professional Certificate](https://github.com/DanVitug/Data-Analyst-Portfolio/blob/main/Certificates/IBM%20Data%20Analyst%20Professional%20Certificate.pdf)
 * [Future Coder](https://futurecoder.io/)
 
+### Where I studied Power BI
+* [DataCamp](https://www.datacamp.com/portfolio/DanielVitug)
 
 <h3 align="left">Connect with me:
 
