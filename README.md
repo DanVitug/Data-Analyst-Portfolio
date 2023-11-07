@@ -4,6 +4,7 @@
 ### Certificates
 * [IBM Data Analyst Professional Certificate](https://github.com/DanVitug/Data-Analyst-Portfolio/blob/main/Certificates/IBM%20Data%20Analyst%20Professional%20Certificate.pdf)
 * [Data Analyst in SQL - Datacamp](https://github.com/DanVitug/Data-Analyst-Portfolio/blob/main/Certificates/Data%20Analyst%20in%20SQL.pdf)
+* [Data Analyst in Power BI - Datacamp]([https://github.com/DanVitug/Data-Analyst-Portfolio/blob/main/Certificates/Data%20Analyst%20in%20SQL.pdf](https://github.com/DanVitug/Data-Analyst-Portfolio/blob/main/Certificates/Data%20Analyst%20in%20Power%20BI.pdf))
 * [Full List of Certificates](https://github.com/DanVitug/Data-Analyst-Portfolio/tree/main/Certificates)
 
 ### Projects
