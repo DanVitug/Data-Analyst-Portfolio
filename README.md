@@ -28,6 +28,7 @@
 
 ### Where I studied Power BI
 * [DataCamp](https://www.datacamp.com/portfolio/DanielVitug)
+* [Microsoft](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
 
 <h3 align="left">Connect with me:
 
